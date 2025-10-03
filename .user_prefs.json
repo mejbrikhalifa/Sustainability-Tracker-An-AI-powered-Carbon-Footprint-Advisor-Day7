@@ -1,0 +1,8 @@
+{
+  "tip_temperature": 0.7,
+  "tip_max_tokens": 160,
+  "summary_temperature": 0.5,
+  "summary_max_tokens": 220,
+  "default_show_ai_summary": true,
+  "exp_ai_summary_open": false
+}
